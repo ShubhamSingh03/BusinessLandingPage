@@ -13,13 +13,13 @@
 ***
 ## Description
 
-This project [Business Landing Page with React]() was built using React.js. The main aim was to learn the basics of React and convert previously built HTML & CSS site to **React Components**.
+This project [Business Landing Page with React](https://business-react.netlify.app/) was built using React.js. The main aim was to learn the basics of React and convert previously built HTML & CSS site to **React Components**.
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://business-react.netlify.app/)
 
 * [Youtube Video Demo](https://youtu.be/Nto_1rFGHGc)
 
