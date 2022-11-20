@@ -635,7 +635,7 @@ button {
   }
 }
 
-@media only screen and (min-width: 431px) and (max-width:841px){
+/* @media only screen and (min-width: 431px) and (max-width:841px){
 
   .nav-items li{
       display: none;
@@ -736,9 +736,9 @@ button {
       padding: 0px;
       margin-left: -30px;
   }
-}
+} */
 
-@media only screen and (min-width: 842px) and (max-width: 1200px){
+/* @media only screen and (min-width: 842px) and (max-width: 1200px){
 
   .nav-items li{
       margin-left: 10px;
@@ -870,4 +870,4 @@ button {
       padding: 0px;
       margin-left: -30px;
   }
-}
+} */
